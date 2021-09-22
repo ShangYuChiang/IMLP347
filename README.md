@@ -15,4 +15,10 @@
   (4) Seaborn Link : <br>
       https://github.com/Ting04701216/IMLP347/blob/main/04_Seaborn數據視覺化.ipynb
      
-  
+## Unit03 HW ##
+  (1) 4_Categorical_features_實戰 <br>
+      https://github.com/Ting04701216/IMLP347/blob/main/4_Categorical_features_實戰.ipynb <br>
+  (2) 5_Prepocessing_實戰 <br>
+      https://github.com/Ting04701216/IMLP347/blob/main/5_Prepocessing_實戰.ipynb <br>
+  (3) 6_scikit_learn_Basic_實戰 <br>
+      https://github.com/Ting04701216/IMLP347/blob/main/6_scikit_learn_Basic_實戰.ipynb <br>
