@@ -22,3 +22,10 @@
       https://github.com/Ting04701216/IMLP347/blob/main/5_Prepocessing_實戰.ipynb <br>
   (3) 6_scikit_learn_Basic_實戰 <br>
       https://github.com/Ting04701216/IMLP347/blob/main/6_scikit_learn_Basic_實戰.ipynb <br>
+
+## Unit04 HW ##
+  (1) Linear Regression_HW.ipynb <br>
+      https://github.com/Ting04701216/IMLP347/blob/main/Linear%20Regression_HW.ipynb <br>
+
+
+  
