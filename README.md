@@ -27,5 +27,8 @@
   (1) Linear Regression_HW.ipynb <br>
       https://github.com/Ting04701216/IMLP347/blob/main/Linear%20Regression_HW.ipynb <br>
 
-
-  
+## Unit05 HW ##
+  (1) 02_Logistic regression實戰.ipynb <br>
+      https://github.com/Ting04701216/IMLP347/blob/main/02_Logistic%20regression實戰.ipynb <br>
+  (2) SVM實戰.ipynb <br>
+      https://github.com/Ting04701216/IMLP347/blob/main/SVM實戰.ipynb <br>
