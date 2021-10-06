@@ -38,3 +38,5 @@
       https://github.com/Ting04701216/IMLP347/blob/main/1.3_ConfusionMatrix_實戰.ipynb <br>
   (2) 2.3_Ensemble實戰.ipynb <br>
       https://github.com/Ting04701216/IMLP347/blob/main/2.3_Ensemble實戰.ipynb <br>
+  (3) submissions.csv <br>
+      https://github.com/Ting04701216/IMLP347/blob/main/submissions.csv
