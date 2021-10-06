@@ -32,3 +32,9 @@
       https://github.com/Ting04701216/IMLP347/blob/main/02_Logistic%20regression實戰.ipynb <br>
   (2) SVM實戰.ipynb <br>
       https://github.com/Ting04701216/IMLP347/blob/main/SVM實戰.ipynb <br>
+      
+## Unit06 HW ##
+  (1) 1.3_ConfusionMatrix_實戰.ipynb <br>
+      https://github.com/Ting04701216/IMLP347/blob/main/1.3_ConfusionMatrix_實戰.ipynb <br>
+  (2) 2.3_Ensemble實戰.ipynb <br>
+      https://github.com/Ting04701216/IMLP347/blob/main/2.3_Ensemble實戰.ipynb <br>
