@@ -40,3 +40,5 @@
       https://github.com/Ting04701216/IMLP347/blob/main/2.3_Ensemble實戰.ipynb <br>
   (3) submissions.csv <br>
       https://github.com/Ting04701216/IMLP347/blob/main/submissions.csv
+  (4) kaggle截圖
+      https://github.com/Ting04701216/IMLP347/blob/main/截圖%202021-10-12%20下午10.41.48.png
